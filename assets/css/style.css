@@ -244,5 +244,30 @@ body {
     position: static;
   }
 
+  nav {
+    float:  none;
+    text-align: center;
+  }
+
+  #logo {
+   
+    text-align:center; 
+    width: 100%;
+  }
+
+    #masthead {
+
+      position: static;
+      margin: 0;
+     
+    }
+
+    #main-container {
+      padding-top: 60px;
+    }
+
+    * {
+    box-sizing:unset;
+}
 
 }
